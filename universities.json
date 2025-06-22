@@ -16,11 +16,11 @@
         "previousExams": [
           {
             "year": "2023",
-            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
           },
           {
             "year": "2022",
-            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
           }
         ]
       },
@@ -35,7 +35,7 @@
         "previousExams": [
           {
             "year": "2023",
-            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
           }
         ]
       }
@@ -58,7 +58,7 @@
         "previousExams": [
           {
             "year": "2023",
-            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+            "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
           }
         ]
       }
