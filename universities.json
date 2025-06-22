@@ -1,0 +1,67 @@
+[
+  {
+    "id": "du",
+    "name": "University of Dhaka",
+    "shortName": "DU",
+    "logoUrl": "https://example.com/logos/du.png",
+    "units": [
+      {
+        "id": "a",
+        "name": "Unit A",
+        "departments": [
+          {"id": "phy", "name": "Physics"},
+          {"id": "chem", "name": "Chemistry"},
+          {"id": "math", "name": "Mathematics"}
+        ],
+        "previousExams": [
+          {
+            "year": "2023",
+            "pdfUrl": "https://example.com/pdfs/du/unit_a/2023.pdf"
+          },
+          {
+            "year": "2022",
+            "pdfUrl": "https://example.com/pdfs/du/unit_a/2022.pdf"
+          }
+        ]
+      },
+      {
+        "id": "b",
+        "name": "Unit B",
+        "departments": [
+          {"id": "eng", "name": "English"},
+          {"id": "bn", "name": "Bangla"},
+          {"id": "hist", "name": "History"}
+        ],
+        "previousExams": [
+          {
+            "year": "2023",
+            "pdfUrl": "https://example.com/pdfs/du/unit_b/2023.pdf"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "cu",
+    "name": "University of Chittagong",
+    "shortName": "CU",
+    "logoUrl": "https://example.com/logos/cu.png",
+    "units": [
+      {
+        "id": "c",
+        "name": "Unit C",
+        "departments": [
+          {"id": "eco", "name": "Economics"},
+          {"id": "acc", "name": "Accounting"}
+        ],
+        "previousExams": [
+          {
+            "year": "2023",
+            "pdfUrl": "https://example.com/pdfs/cu/unit_c/2023.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]
