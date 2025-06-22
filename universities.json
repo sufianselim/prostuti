@@ -3,7 +3,7 @@
     "id": "du",
     "name": "University of Dhaka",
     "shortName": "DU",
-    "logoUrl": "https://example.com/logos/du.png",
+    "logoUrl": "https://www.duir.ac.bd/wp-content/uploads/2016/03/DU-logo.jpg",
     "units": [
       {
         "id": "a",
@@ -16,11 +16,11 @@
         "previousExams": [
           {
             "year": "2023",
-            "pdfUrl": "https://example.com/pdfs/du/unit_a/2023.pdf"
+            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
           },
           {
             "year": "2022",
-            "pdfUrl": "https://example.com/pdfs/du/unit_a/2022.pdf"
+            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
           }
         ]
       },
@@ -35,7 +35,7 @@
         "previousExams": [
           {
             "year": "2023",
-            "pdfUrl": "https://example.com/pdfs/du/unit_b/2023.pdf"
+            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
           }
         ]
       }
@@ -46,7 +46,7 @@
     "id": "cu",
     "name": "University of Chittagong",
     "shortName": "CU",
-    "logoUrl": "https://example.com/logos/cu.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/University_of_Chittagong_logo.svg/800px-University_of_Chittagong_logo.svg.png",
     "units": [
       {
         "id": "c",
@@ -58,7 +58,7 @@
         "previousExams": [
           {
             "year": "2023",
-            "pdfUrl": "https://example.com/pdfs/cu/unit_c/2023.pdf"
+            "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
           }
         ]
       }
