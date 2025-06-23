@@ -8,12 +8,21 @@
       {
         "id": "a",
         "name": "Unit A",
-        "departments": [
-          {"id": "phy", "name": "Physics"},
-          {"id": "chem", "name": "Chemistry"},
-          {"id": "math", "name": "Mathematics"}
+        "subjects": [ 
+          {
+            "id": "phy",
+            "name": "Physics"
+          },
+          {
+            "id": "chem",
+            "name": "Chemistry"
+          },
+          {
+            "id": "math",
+            "name": "Mathematics"
+          }
         ],
-        "previousExams": [
+        "questionPaper": [ 
           {
             "year": "2024-25",
             "pdfUrl": "https://sufianselim.github.io/prostuti/du_a_2024-25.pdf"
@@ -27,12 +36,21 @@
       {
         "id": "b",
         "name": "Unit B",
-        "departments": [
-          {"id": "eng", "name": "English"},
-          {"id": "bn", "name": "Bangla"},
-          {"id": "hist", "name": "History"}
+        "subjects": [
+          {
+            "id": "eng",
+            "name": "English"
+          },
+          {
+            "id": "bn",
+            "name": "Bangla"
+          },
+          {
+            "id": "hist",
+            "name": "History"
+          }
         ],
-        "previousExams": [
+        "questionPaper": [
           {
             "year": "2023",
             "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
@@ -41,7 +59,6 @@
       }
     ]
   },
-
   {
     "id": "cu",
     "name": "University of Chittagong",
@@ -51,11 +68,17 @@
       {
         "id": "c",
         "name": "Unit C",
-        "departments": [
-          {"id": "eco", "name": "Economics"},
-          {"id": "acc", "name": "Accounting"}
+        "subjects": [
+          {
+            "id": "eco",
+            "name": "Economics"
+          },
+          {
+            "id": "acc",
+            "name": "Accounting"
+          }
         ],
-        "previousExams": [
+        "questionPaper": [
           {
             "year": "2023",
             "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
