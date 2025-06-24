@@ -2,7 +2,7 @@
   {
     "id": 1001,
     "universityName": "Dhaka University",
-    "university_short_name": "DU",
+    "universityShortName": "DU",
     "universityLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dhaka_University_logo.svg/170px-Dhaka_University_logo.svg.png",
     "unitName": "A Unit",
     "subjects": [
@@ -15,8 +15,8 @@
   },
   {
     "id": 1002,
-    "universityName": " University",
-    "university_short_name": "DU",
+    "universityName": "Chittagong University",
+    "universityShortName": "DU",
     "universityLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dhaka_University_logo.svg/170px-Dhaka_University_logo.svg.png",
     "unitName": "A Unit",
     "subjects": [
@@ -30,7 +30,7 @@
   {
     "id": 1003,
     "universityName": "Dhaka ",
-    "university_short_name": "DU",
+    "universityShortName": "DU",
     "universityLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dhaka_University_logo.svg/170px-Dhaka_University_logo.svg.png",
     "unitName": "A Unit",
     "subjects": [
