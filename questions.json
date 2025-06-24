@@ -1,0 +1,30 @@
+[
+
+  {
+    "id": 1001,
+    "university_name": "Dhaka University",
+    "university_short_name": "DU",
+    "unit_name": "A Unit",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "exam_year": "2023-24",
+    "pdf_url": "link.pdf"
+  },
+  {
+    "id": 1002,
+    "university_name": "Dhaka University",
+    "university_short_name": "DU",
+    "unit_name": "B Unit",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "exam_year": "2023-24",
+    "pdf_url": "link.pdf"
+  },
+  {
+    "id": 1003,
+    "university_name": "Chittagong University",
+    "university_short_name": "CU",
+    "unit_name": "A Unit",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "exam_year": "2023-24",
+    "pdf_url": "link.pdf"
+  }
+]
