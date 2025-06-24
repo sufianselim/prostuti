@@ -1,7 +1,7 @@
 [
   {
     "id": 1001,
-    "universityName": "Dhaka University",
+    "universityName": "University of Dhaka",
     "universityShortName": "DU",
     "universityLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dhaka_University_logo.svg/170px-Dhaka_University_logo.svg.png",
     "unitName": "A Unit",
@@ -16,9 +16,9 @@
   {
     "id": 1002,
     "universityName": "Chittagong University",
-    "universityShortName": "DU",
+    "universityShortName": "CU",
     "universityLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dhaka_University_logo.svg/170px-Dhaka_University_logo.svg.png",
-    "unitName": "A Unit",
+    "unitName": "B Unit",
     "subjects": [
       "Physics",
       "Chemistry",
@@ -29,10 +29,10 @@
   },
   {
     "id": 1003,
-    "universityName": "Dhaka ",
-    "universityShortName": "DU",
+    "universityName": "Jahangirnagar University",
+    "universityShortName": "JU",
     "universityLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dhaka_University_logo.svg/170px-Dhaka_University_logo.svg.png",
-    "unitName": "A Unit",
+    "unitName": "C Unit",
     "subjects": [
       "Physics",
       "Chemistry",
