@@ -23,11 +23,12 @@
           }
         ],
         "questionPaper": [ 
-          {
+          {"id": "1",
             "year": "2024-25",
             "pdfUrl": "https://sufianselim.github.io/prostuti/du_a_2024-25.pdf"
           },
           {
+            "id": "2",
             "year": "2023",
             "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2023-bangla-1st"
           }
@@ -51,7 +52,7 @@
           }
         ],
         "questionPaper": [
-          {
+          {"id": "3",
             "year": "2023",
             "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
           }
@@ -80,6 +81,7 @@
         ],
         "questionPaper": [
           {
+            "id": "4",
             "year": "2023",
             "pdfUrl": "https://cdn.knowledgehaunter.com/file/d/ssc-2018-physics"
           }
